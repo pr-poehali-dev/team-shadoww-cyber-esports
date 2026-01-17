@@ -65,10 +65,15 @@ const Index = () => {
       >
         <div className="absolute inset-0 flex flex-col items-center justify-center text-center px-4">
           <h1 className="text-7xl md:text-9xl font-bold tracking-wider mb-6 animate-fade-in text-white drop-shadow-[0_0_30px_rgba(239,68,68,0.5)]">
-            TEAM SHADOWW
+            ГОЙДА ГОЙДА ГОЙДА
           </h1>
+          <img 
+            src="https://cdn.poehali.dev/projects/b8657ca7-4b9c-4394-acc7-e314e104a82a/files/375392e8-b9a0-41e9-9f4c-3e40ada7abcc.jpg" 
+            alt="Парадокс" 
+            className="w-96 h-96 object-cover rounded-lg mb-6 animate-scale-in border-4 border-primary"
+          />
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 animate-fade-in" style={{ animationDelay: '0.2s' }}>
-            Легенды киберспорта
+            Парадокс
           </p>
           <div className="flex gap-4 animate-fade-in" style={{ animationDelay: '0.4s' }}>
             <a 
