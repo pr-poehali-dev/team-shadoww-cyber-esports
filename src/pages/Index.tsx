@@ -65,7 +65,7 @@ const Index = () => {
       >
         <div className="absolute inset-0 flex flex-col items-center justify-center text-center px-4">
           <h1 className="text-7xl md:text-9xl font-bold tracking-wider mb-6 animate-fade-in text-white drop-shadow-[0_0_30px_rgba(239,68,68,0.5)]">
-            ГОЙДА ГОЙДА ГОЙДА
+            ГОЙДА ГОЙДА ГОЙДА ГОЙДА ГОЙДА ГОЙДА ГОЙДА ГОЙДА ГОЙДА
           </h1>
           <img 
             src="https://cdn.poehali.dev/projects/b8657ca7-4b9c-4394-acc7-e314e104a82a/files/375392e8-b9a0-41e9-9f4c-3e40ada7abcc.jpg" 
