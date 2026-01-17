@@ -49,12 +49,7 @@ const players = [
 ];
 
 const sponsors = [
-  { name: 'HyperX', category: 'Периферия', logo: '🎧' },
-  { name: 'Monster Energy', category: 'Энергетики', logo: '⚡' },
-  { name: 'ASUS ROG', category: 'Компьютеры', logo: '💻' },
-  { name: 'DXRacer', category: 'Мебель', logo: '🪑' },
-  { name: 'T-Mobile', category: 'Связь', logo: '📱' },
-  { name: 'Intel', category: 'Процессоры', logo: '🔧' }
+  { name: 'SkinPass', category: 'Партнёр', logo: '🎮' }
 ];
 
 const Index = () => {
