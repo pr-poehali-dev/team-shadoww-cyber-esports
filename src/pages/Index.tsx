@@ -68,7 +68,7 @@ const Index = () => {
             TEAM SHADOWW
           </h1>
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 animate-fade-in" style={{ animationDelay: '0.2s' }}>
-            Легенды киберспорта
+            ЭЭЭЭФЫФЭЫФЭЫЭФЭЭФЖЖЖЖЖЖЖЖЖЖЖ:::::::::::::""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""около вававававас
           </p>
           <div className="flex gap-4 animate-fade-in" style={{ animationDelay: '0.4s' }}>
             <a 
