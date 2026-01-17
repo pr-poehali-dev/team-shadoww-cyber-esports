@@ -7,7 +7,7 @@ const players = [
   {
     id: 'passl1ne',
     name: 'PASSL1NE',
-    role: 'Player',
+    role: 'Капитан',
     position: 'Entry Fragger',
     stats: { kills: 1247, winRate: '67%', rating: 1.24 }
   },
